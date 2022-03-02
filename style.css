@@ -1,0 +1,130 @@
+.titre{
+    display: flex;
+    background-image: url(font.png);
+    padding: 20px;
+    margin: 50px;
+    align-items: center;
+    border-bottom: 1px solid white;
+
+}
+.A4{
+   background-image: url(font.png);
+}
+div{
+    text-align: center;
+}
+p{
+    color: white;
+    font-family: Open Sans, Arial, sans-serif
+}
+img{
+    width: 60;
+}
+a{
+   color: rgb(39, 172, 172);
+}
+h1{
+    color: white;
+}
+h3{
+    color:rgb(179, 179, 179);
+    font-weight: 80;
+   
+}
+h4{
+    color: rgb(39, 172, 172);
+    
+}
+button{
+    background-color: rgb(39, 172, 172);
+    color: white;
+    width: 10%;
+    border-radius: 15px;
+    height: 40px;
+    border: none;
+}
+.fonds{
+    background-color: rgb(233, 233, 233);
+   
+}
+.icones{
+
+
+
+}
+h5{
+    color:rgb(39, 172, 172) ;
+}
+.mandahatra{
+    display: flex;
+    text-align: center;
+    margin: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.photo-phone{
+   
+   
+    
+    top: 50px;
+    left: 50PX;
+}   
+.listes{
+    list-style: none;
+    text-align: center;
+}
+.listes1{
+    list-style: none;
+    width: 75%;
+
+}
+.phone{
+    width: 100;
+}
+.fond-noir{
+    background-color: rgb(31, 27, 27);
+}
+.fond-screenshots{
+    background-color: rgb(218, 211, 211);
+}
+.filaharana{
+    display: flex;
+    width: 50%;
+    margin: auto;
+    
+}
+.img{
+    padding: 20px;
+    text-align: center;
+}
+.litmus-test{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+    margin: auto;
+    width: 40%;
+}
+.see-it{
+         background-color:rgb(39, 172, 172);
+         width: 40%;
+}
+.sary-play{
+    text-align: center;
+}
+.cent-responsive{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 50%;
+}
+.incline{
+    width: 0%;
+}
+.text{
+    width: 20vw;
+}
+.footer{
+    display: flex;
+    background-color: aliceblue;
+}
